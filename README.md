@@ -2,7 +2,7 @@
 
 ## Capstone 2 
 
-### Goal: Identify key drivers of home prices in Ames to better allocate investments into mortgage backed securities
+### Goal: Use statistical methods to identify key drivers of home prices in Ames to better allocate investments into mortgage backed securities
 
 #### Key Driver 1: Larger homes have a lower cost per square foot while being more expensive overall
 
